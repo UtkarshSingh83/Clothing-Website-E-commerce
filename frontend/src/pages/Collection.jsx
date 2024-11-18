@@ -103,6 +103,9 @@ const Collection = () => {
             <p className='flex gap-2'>
               <input className='w-3' type="checkbox" value={'Kids'} onChange={toggleCategory}/> kids
             </p>
+            <p className='flex gap-2'>
+              <input className='w-3' type="checkbox" value={'Kids'} onChange={toggleCategory}/> Boys
+            </p>
           </div>
         </div>
         {/* SubCategory Filter */}
