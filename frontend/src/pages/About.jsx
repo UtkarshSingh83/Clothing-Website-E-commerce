@@ -14,10 +14,12 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
           <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
           <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-              <p>Anita Store was born out of a passion for innovation and a desire to revolutionize the way people shop online. Our journey began with a simple idea: to provide a platform where customers can easily discover, explore, and purchase a wide range of products from the comfort of their homes.</p>
-              <p>Since our inception, we've worked tirelessly to curate a diverse selection of high-quality products that cater to every taste and preference. From fashion and beauty to electronics and home essentials, we offer an extensive collection sourced from trusted brands and suppliers.</p>
+              <p>Welcome to Clothing Store, where style meets quality and affordability. Founded with a passion for fashion and a commitment to excellence, our mission is to make dressing well accessible for everyone.</p>
+              <p>We specialize in delivering curated collections of clothing and accessories for men, women, and kids. Whether you're seeking everyday essentials, office wear, or outfits for special occasions, our designs blend comfort, style, and versatility.</p>
               <b className='text-gray-800'>Our Mission</b>
-              <p>Our mission at Anitastore is to empower customers with choice, convenience, and confidence. We're dedicated to providing a seamless shopping experience that exceeds expectations, from browsing and ordering to delivery and beyond.</p>
+              <p>At Clothing Store, your satisfaction is our priority. We aim to provide a seamless shopping experience with easy navigation, secure payments, and excellent customer service.
+              We're not just a clothing brand; we're a community that celebrates individuality, creativity, and confidence.Thank you for letting us be part of your style journey.
+              Stay connected and explore the latest trends with us!</p>
           </div>
       </div>
 
